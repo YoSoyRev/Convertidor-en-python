@@ -29,4 +29,4 @@ Primero, descarga o clona el código del proyecto a tu máquina local.
 Abre tu terminal o Símbolo del sistema y ejecuta el siguiente comando para instalar todas las dependencias necesarias de Python:
 
 ```bash
-pip install docx2pdf img2pdf Pillow tqdm pywin32
+python  -m pip install docx2pdf img2pdf Pillow tqdm pywin32
